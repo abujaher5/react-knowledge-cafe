@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "cover": "https://example.com/book1_cover.jpg",
+    "title": "The Secrets of Time",
+    "author": "Evelyn Waters",
+    "author_img": "https://example.com/evelyn_waters.jpg",
+    "posted_date": "2024-03-16",
+    "reading_time": "4 hours",
+    "hashtags": ["time", "mystery", "fantasy"]
+  },
+  {
+    "Id": 2,
+    "cover": "https://example.com/book2_cover.jpg",
+    "title": "Echoes of Eternity",
+    "author": "Benjamin Gale",
+    "author_img": "https://example.com/benjamin_gale.jpg",
+    "posted_date": "2024-03-16",
+    "reading_time": "3.5 hours",
+    "hashtags": ["eternity", "love", "fiction"]
+  },
+  {
+    "Id": 3,
+    "cover": "https://example.com/book3_cover.jpg",
+    "title": "Whispers in the Dark",
+    "author": "Victoria Blake",
+    "author_img": "https://example.com/victoria_blake.jpg",
+    "posted_date": "2024-03-16",
+    "reading_time": "2.5 hours",
+    "hashtags": ["darkness", "thriller", "suspense"]
+  },
+  {
+    "Id": 4,
+    "cover": "https://example.com/book4_cover.jpg",
+    "title": "The Lost Kingdom",
+    "author": "Samuel Cross",
+    "author_img": "https://example.com/samuel_cross.jpg",
+    "posted_date": "2024-03-16",
+    "reading_time": "5 hours",
+    "hashtags": ["adventure", "history", "discovery"]
+  },
+  {
+    "Id": 5,
+    "cover": "https://example.com/book5_cover.jpg",
+    "title": "Stars Beyond Reach",
+    "author": "Lydia Foster",
+    "author_img": "https://example.com/lydia_foster.jpg",
+    "posted_date": "2024-03-16",
+    "reading_time": "4.5 hours",
+    "hashtags": ["space", "exploration", "sciencefiction"]
+  }
+]
