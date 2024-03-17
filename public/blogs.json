@@ -1,7 +1,7 @@
 [
   {
-    "Id": 1,
-    "cover": "https://example.com/book1_cover.jpg",
+    "id": 1,
+    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
     "title": "The Secrets of Time",
     "author": "Evelyn Waters",
     "author_img": "https://example.com/evelyn_waters.jpg",
@@ -10,8 +10,8 @@
     "hashtags": ["time", "mystery", "fantasy"]
   },
   {
-    "Id": 2,
-    "cover": "https://example.com/book2_cover.jpg",
+    "id": 2,
+    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
     "title": "Echoes of Eternity",
     "author": "Benjamin Gale",
     "author_img": "https://example.com/benjamin_gale.jpg",
@@ -20,8 +20,8 @@
     "hashtags": ["eternity", "love", "fiction"]
   },
   {
-    "Id": 3,
-    "cover": "https://example.com/book3_cover.jpg",
+    "id": 3,
+    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
     "title": "Whispers in the Dark",
     "author": "Victoria Blake",
     "author_img": "https://example.com/victoria_blake.jpg",
@@ -30,8 +30,8 @@
     "hashtags": ["darkness", "thriller", "suspense"]
   },
   {
-    "Id": 4,
-    "cover": "https://example.com/book4_cover.jpg",
+    "id": 4,
+    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
     "title": "The Lost Kingdom",
     "author": "Samuel Cross",
     "author_img": "https://example.com/samuel_cross.jpg",
@@ -40,8 +40,8 @@
     "hashtags": ["adventure", "history", "discovery"]
   },
   {
-    "Id": 5,
-    "cover": "https://example.com/book5_cover.jpg",
+    "id": 5,
+    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
     "title": "Stars Beyond Reach",
     "author": "Lydia Foster",
     "author_img": "https://example.com/lydia_foster.jpg",
